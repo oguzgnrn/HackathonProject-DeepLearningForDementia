@@ -111,6 +111,7 @@ Securing the 2nd place in Hackathon'23 magnifies the prowess of strategic model 
 
 ![image](https://github.com/oguzgnrn/HackathonProject-DeepLearningForDementia/assets/96068121/ecefb9f8-a31d-4182-b3bb-6d26da3c567b)
 
+You can find the dataset from here: https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset
 
 
 
